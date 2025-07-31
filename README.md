@@ -1,4 +1,4 @@
-# Python Programming Notebooks
+# Introductory Python Programming Notebooks
 
 A comprehensive collection of Jupyter notebooks designed to teach fundamental Python programming concepts from beginner to intermediate level.
 
