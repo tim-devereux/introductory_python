@@ -172,7 +172,7 @@ Most examples use Python's standard library. Additional libraries used:
 ### Practice Platforms
 - [HackerRank Python](https://www.hackerrank.com/domains/python)
 - [LeetCode Python](https://leetcode.com/)
-- [Codewars Python](https://www.codewars.com/)
+- [Advent of Code](https://adventofcode.com/)
 
 ### Books
 - "Python Crash Course" by Eric Matthes
