@@ -90,7 +90,7 @@ This series of interactive notebooks covers essential Python programming topics 
 
 3. **Clone or download this repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/tim-devereux/introductory_python)
    cd python-notebooks
    ```
 
